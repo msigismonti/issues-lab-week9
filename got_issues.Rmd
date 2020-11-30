@@ -1,5 +1,5 @@
 ---
-title: "This code has issues"
+title: "This code does not have issues anymore"
 author: "Your name here"
 output: html_document
 ---
